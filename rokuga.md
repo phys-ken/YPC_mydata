@@ -48,6 +48,12 @@ title: "授業録画の方法"
 
 ---
 
+## こんな感じ
+<img width = "80%" src = "fig/zu.jpg">
+
+
+---
+
 * 注意　
   * 私物端末の持ち込みについては、ルールに従うこと
 
@@ -56,7 +62,10 @@ title: "授業録画の方法"
 ### 録画中の画面
 
 <img width = "45%" src = "fig/screen.jpeg">
-<img width = "45%" src = "fig/pcscreen.jpeg">
+<img width = "45%" src = "fig/pcscreen.jpeg">  
+
+左:スクリーン　　　　右:OBSの画面
+
 
 ---
 
